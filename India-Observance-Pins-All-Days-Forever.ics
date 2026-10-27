@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI Calendar Builder//Observance Days//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:India & International Observance Days - Pins (Yearly Forever)
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:national_youth_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Youth Day
+DESCRIPTION:India observes this day on the birth anniversary of Swami Viv
+ ekananda.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_startup_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Startup Day
+DESCRIPTION:An observance recognizing India's startup ecosystem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_voters_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Voters' Day
+DESCRIPTION:An Indian observance promoting voter awareness.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:republic_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Republic Day (India)
+DESCRIPTION:India's Republic Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:martyrs_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Martyrs' Day (India)
+DESCRIPTION:An Indian observance remembering those who sacrificed their l
+ ives for the country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_science_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Science Day (India)
+DESCRIPTION:An Indian observance celebrating science and scientific achie
+ vement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_safety_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Safety Day (India)
+DESCRIPTION:An Indian observance promoting workplace and public safety.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_maritime_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Maritime Day (India)
+DESCRIPTION:An Indian observance recognizing the maritime sector.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_panchayati_raj_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Panchayati Raj Day
+DESCRIPTION:An Indian observance recognizing local self-government.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_technology_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Technology Day (India)
+DESCRIPTION:An Indian observance recognizing technological achievement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anti_terrorism_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Anti-Terrorism Day (India)
+DESCRIPTION:An Indian observance promoting peace and opposition to terror
+ ism.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_doctors_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Doctors' Day (India)
+DESCRIPTION:An Indian observance recognizing doctors and healthcare worke
+ rs.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kargil_vijay_diwas@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Kargil Vijay Diwas
+DESCRIPTION:An Indian observance remembering the Kargil War victory.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_organ_donation_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Organ Donation Day (India)
+DESCRIPTION:An Indian observance promoting organ donation awareness\; the
+  date used by observances can vary.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_handloom_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Handloom Day (India)
+DESCRIPTION:An Indian observance recognizing the handloom sector.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_sports_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Sports Day (India)
+DESCRIPTION:An Indian observance recognizing sport and athletes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:teachers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Teachers' Day (India)
+DESCRIPTION:India's Teachers' Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hindi_diwas@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Hindi Diwas
+DESCRIPTION:An Indian observance recognizing the Hindi language.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:engineers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Engineers' Day (India)
+DESCRIPTION:An Indian observance recognizing engineering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gandhi_jayanti@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Gandhi Jayanti
+DESCRIPTION:India observes the birth anniversary of Mahatma Gandhi.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:indian_air_force_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Indian Air Force Day
+DESCRIPTION:An Indian observance marking the establishment of the Indian 
+ Air Force.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:police_commemoration_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Police Commemoration Day (India)
+DESCRIPTION:An Indian observance remembering police personnel who died in
+  the line of duty.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_unity_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Unity Day (India)
+DESCRIPTION:An Indian observance promoting national unity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_education_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Education Day (India)
+DESCRIPTION:An Indian observance recognizing education.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:children_s_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Children's Day (India)
+DESCRIPTION:India's Children's Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:constitution_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Constitution Day (India)
+DESCRIPTION:An Indian observance marking the adoption of the Constitution
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:armed_forces_flag_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Armed Forces Flag Day (India)
+DESCRIPTION:An Indian observance supporting and recognizing the armed for
+ ces.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vijay_diwas_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Vijay Diwas (India)
+DESCRIPTION:An Indian observance remembering the 1971 victory.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_mathematics_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Mathematics Day (India)
+DESCRIPTION:An Indian observance celebrating mathematics.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_farmers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Farmers' Day (India)
+DESCRIPTION:An Indian observance recognizing farmers.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_braille_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Braille Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_education@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Education
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_holocaust_remembrance_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Holocaust Remembrance Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_cancer_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Cancer Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_women_and_girls_in_science@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Women and Girls in Science
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_day_of_social_justice@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Day of Social Justice
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_mother_language_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Mother Language Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_wildlife_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Wildlife Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_women_s_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Women's Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_water_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Water Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_autism_awareness_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Autism Awareness Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_health_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Health Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:earth_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Earth Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_malaria_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Malaria Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_press_freedom_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Press Freedom Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_nurses_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Nurses Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_families@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Families
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_environment_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Environment Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_oceans_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Oceans Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_blood_donor_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Blood Donor Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_refugee_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Refugee Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_yoga_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Yoga Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_against_drug_abuse_and_illicit_trafficking@india-ob
+ servance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day Against Drug Abuse and Illicit Trafficking
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_population_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Population Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_youth_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Youth Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_humanitarian_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Humanitarian Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_literacy_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Literacy Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_suicide_prevention_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Suicide Prevention Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_democracy@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Democracy
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_ozone_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Ozone Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_peace@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Peace
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_sign_languages@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Sign Languages
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_tourism_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Tourism Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_older_persons@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Older Persons
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_animal_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Animal Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_teachers_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Teachers' Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_mental_health_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Mental Health Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_the_girl_child@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of the Girl Child
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_food_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Food Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:united_nations_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+RRULE:FREQ=YEARLY
+SUMMARY:📌 United Nations Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_tsunami_awareness_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Tsunami Awareness Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_science_day_for_peace_and_development@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Science Day for Peace and Development
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_diabetes_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Diabetes Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_men_s_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Men's Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_children_s_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Children's Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_television_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Television Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_for_the_elimination_of_violence_against_women@india
+ -observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day for the Elimination of Violence against Wo
+ men
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_aids_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World AIDS Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_day_of_persons_with_disabilities@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Persons with Disabilities
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_volunteer_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Volunteer Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_civil_aviation_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Civil Aviation Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:human_rights_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Human Rights Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international_mountain_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Mountain Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arabic_language_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Arabic Language Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_bicycle_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Bicycle Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_emoji_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Emoji Day
+DESCRIPTION:Annual observance. This event is set to recur yearly\; offici
+ al status or local recognition may vary by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:safer_internet_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=2TU
+SUMMARY:📌 Safer Internet Day
+DESCRIPTION:A yearly awareness day for safer and more responsible use of 
+ online technology.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mothers_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=2SU
+SUMMARY:📌 Mother's Day
+DESCRIPTION:A widely observed annual day honouring mothers\; the date var
+ ies by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fathers_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=3SU
+SUMMARY:📌 Father's Day
+DESCRIPTION:A widely observed annual day honouring fathers\; the date var
+ ies by country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daughters_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=4SU
+SUMMARY:📌 Daughter's Day
+DESCRIPTION:A commonly used annual observance celebrating daughters\; dat
+ es and observance conventions vary.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world_deaf_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU
+SUMMARY:📌 World Deaf Day
+DESCRIPTION:A commonly used observance for deaf communities\; date conven
+ tions can vary by organization.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

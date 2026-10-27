@@ -1,0 +1,1107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//India Observance Days//Repeating Forever//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:India & International Observance Days (Pins)
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:obs_0104@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Braille Day
+DESCRIPTION:Marks Louis Braille's birth (1809) and promotes access to Brail
+ le for blind and partially sighted people.\n\nFREE - observance day\, not 
+ a public holiday.\nRegion: Pan-India observance.\nDate is the same every y
+ ear.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0109@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Pravasi Bharatiya Divas (NRI Day)
+DESCRIPTION:Celebrates the Indian diaspora\; marks Gandhi's return from Sou
+ th Africa in 1915.\n\nFREE - observance day\, not a public holiday.\nRegio
+ n: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0110@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Hindi Day
+DESCRIPTION:Promotes Hindi worldwide\; commemorates the first World Hindi C
+ onference (Nagpur\, 1975).\n\nFREE - observance day\, not a public holiday
+ .\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0115@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Army Day
+DESCRIPTION:Honours the Indian Army\; marks Gen. K. M. Cariappa becoming th
+ e first Indian Commander-in-Chief (1949).\n\nFREE - observance day\, not a
+  public holiday.\nRegion: Pan-India observance.\nDate is the same every ye
+ ar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0124@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Girl Child Day
+DESCRIPTION:Raises awareness of girls' rights\, education\, health and gend
+ er equality.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan
+ -India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0125@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Voters Day / National Tourism Day
+DESCRIPTION:Voters Day marks the Election Commission's founding (1950) and 
+ encourages voter enrolment\; also National Tourism Day.\n\nFREE - observan
+ ce day\, not a public holiday.\nRegion: Pan-India observance.\nDate is the
+  same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0128@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Data Protection Day
+DESCRIPTION:International day (Convention 108\, 1981) raising awareness of 
+ privacy and data protection.\n\nFREE - observance day\, not a public holid
+ ay.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0204@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Cancer Day
+DESCRIPTION:Global day promoting cancer prevention\, early detection and tr
+ eatment.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0213@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Women's Day (Sarojini Naidu Jayanti)
+DESCRIPTION:Birth anniversary of poet and freedom fighter Sarojini Naidu\, 
+ the 'Nightingale of India'.\n\nFREE - observance day\, not a public holida
+ y.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0220@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Day of Social Justice
+DESCRIPTION:UN day promoting poverty eradication\, decent work and social i
+ nclusion.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-In
+ dia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0221@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Mother Language Day
+DESCRIPTION:UNESCO day celebrating linguistic diversity\; commemorates the 
+ 1952 Bengali language movement.\n\nFREE - observance day\, not a public ho
+ liday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0224@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Central Excise Day
+DESCRIPTION:Observed by India's Customs and Central Excise (GST) officers t
+ o mark the department's founding anniversary.\n\nFREE - observance day\, n
+ ot a public holiday.\nRegion: Pan-India observance.\nDate is the same ever
+ y year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0228@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Science Day
+DESCRIPTION:Commemorates C. V. Raman's discovery of the Raman Effect (1928)
+ .\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obse
+ rvance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0303@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Wildlife Day / World Hearing Day
+DESCRIPTION:UN day celebrating wild animals and plants\; also WHO's day for
+  ear and hearing care.\n\nFREE - observance day\, not a public holiday.\nR
+ egion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0304@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Safety Day
+DESCRIPTION:Promotes workplace and road safety\; marks the founding of the 
+ National Safety Council (1966).\n\nFREE - observance day\, not a public ho
+ liday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0308@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Women's Day
+DESCRIPTION:Celebrates women's achievements and campaigns for gender equali
+ ty.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India ob
+ servance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0315@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Consumer Rights Day
+DESCRIPTION:Promotes the basic rights of all consumers worldwide.\n\nFREE -
+  observance day\, not a public holiday.\nRegion: Pan-India observance.\nDa
+ te is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0316@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Vaccination Day
+DESCRIPTION:Highlights the importance of immunisation\; marks the first ora
+ l polio dose in India (1995).\n\nFREE - observance day\, not a public holi
+ day.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0318@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Ordnance Factories Day
+DESCRIPTION:Marks the start of ordnance manufacturing at Cossipore\, Kolkat
+ a (1801).\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-In
+ dia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0320@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Happiness
+DESCRIPTION:UN day recognising happiness and well-being as universal goals.
+ \n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obser
+ vance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0321@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Forestry Day / World Poetry Day
+DESCRIPTION:UN day for forests\, and UNESCO's World Poetry Day.\n\nFREE - o
+ bservance day\, not a public holiday.\nRegion: Pan-India observance.\nDate
+  is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0322@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Water Day
+DESCRIPTION:UN day focusing on freshwater and sustainable water management.
+ \n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obser
+ vance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0323@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Meteorological Day
+DESCRIPTION:Marks the founding of the World Meteorological Organization (19
+ 50).\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India o
+ bservance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0324@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World TB Day
+DESCRIPTION:Marks Robert Koch's 1882 discovery of the TB bacillus\; raises 
+ awareness to end tuberculosis.\n\nFREE - observance day\, not a public hol
+ iday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0402@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Autism Awareness Day
+DESCRIPTION:UN day promoting understanding and acceptance of people with au
+ tism.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India 
+ observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0405@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Maritime Day
+DESCRIPTION:Commemorates the first Indian-owned ship (SS Loyalty) voyage to
+  the UK in 1919.\n\nFREE - observance day\, not a public holiday.\nRegion:
+  Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0407@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Health Day
+DESCRIPTION:WHO's founding day (1948)\; each year highlights a global healt
+ h theme.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0411@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Safe Motherhood Day / National Pet Day
+DESCRIPTION:Safe Motherhood Day (Kasturba Gandhi's birthday) promotes mater
+ nal health\; also National Pet Day.\n\nFREE - observance day\, not a publi
+ c holiday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0417@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Hemophilia Day
+DESCRIPTION:Raises awareness of haemophilia and other inherited bleeding di
+ sorders.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0418@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Heritage Day
+DESCRIPTION:ICOMOS/UNESCO day for conserving monuments and heritage sites.\
+ n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India observ
+ ance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0421@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Civil Service Day
+DESCRIPTION:Honours India's civil servants\; marks Sardar Patel's 1947 addr
+ ess to administrative officers.\n\nFREE - observance day\, not a public ho
+ liday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0422@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Earth Day
+DESCRIPTION:Global day (since 1970) for environmental protection.\n\nFREE -
+  observance day\, not a public holiday.\nRegion: Pan-India observance.\nDa
+ te is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0423@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Book & Copyright Day
+DESCRIPTION:UNESCO day celebrating books\, reading and authors.\n\nFREE - o
+ bservance day\, not a public holiday.\nRegion: Pan-India observance.\nDate
+  is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0424@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Panchayati Raj Day
+DESCRIPTION:Marks the 73rd Constitutional Amendment that gave Panchayati Ra
+ j constitutional status.\n\nFREE - observance day\, not a public holiday.\
+ nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0503@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Press Freedom Day
+DESCRIPTION:UN day defending media freedom and journalists' safety.\n\nFREE
+  - observance day\, not a public holiday.\nRegion: Pan-India observance.\n
+ Date is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0504@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Coal Miners' Day
+DESCRIPTION:Honours India's coal miners and their contribution to the natio
+ n's energy needs.\n\nFREE - observance day\, not a public holiday.\nRegion
+ : Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0508@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Red Cross Day / World Thalassaemia Day
+DESCRIPTION:Red Cross Day honours founder Henry Dunant's birthday\; Thalass
+ aemia Day raises awareness of the blood disorder.\n\nFREE - observance day
+ \, not a public holiday.\nRegion: Pan-India observance.\nDate is the same 
+ every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0511@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Technology Day
+DESCRIPTION:Commemorates India's 1998 Pokhran-II tests and the nation's tec
+ hnological achievements.\n\nFREE - observance day\, not a public holiday.\
+ nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0512@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Nurses Day
+DESCRIPTION:Honours nurses\; marks Florence Nightingale's birthday (1820).\
+ n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India observ
+ ance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0515@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Families
+DESCRIPTION:UN day highlighting the importance of families.\n\nFREE - obser
+ vance day\, not a public holiday.\nRegion: Pan-India observance.\nDate is 
+ the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0517@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Telecommunication Day
+DESCRIPTION:Marks the founding of the ITU (1865)\; promotes information and
+  communication technology.\n\nFREE - observance day\, not a public holiday
+ .\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0518@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Museum Day
+DESCRIPTION:ICOM day raising awareness of museums' role in society.\n\nFREE
+  - observance day\, not a public holiday.\nRegion: Pan-India observance.\n
+ Date is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0521@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Anti-Terrorism Day
+DESCRIPTION:Observed on Rajiv Gandhi's death anniversary (1991) to promote 
+ peace and oppose terrorism.\n\nFREE - observance day\, not a public holida
+ y.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0522@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day for Biological Diversity
+DESCRIPTION:UN day raising awareness of biodiversity conservation.\n\nFREE 
+ - observance day\, not a public holiday.\nRegion: Pan-India observance.\nD
+ ate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0531@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World No Tobacco Day
+DESCRIPTION:WHO day highlighting tobacco's health risks and urging reduced 
+ use.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India o
+ bservance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0605@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Environment Day
+DESCRIPTION:The UN's main day for environmental awareness and action.\n\nFR
+ EE - observance day\, not a public holiday.\nRegion: Pan-India observance.
+ \nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0608@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Oceans Day
+DESCRIPTION:UN day celebrating and protecting the world's oceans.\n\nFREE -
+  observance day\, not a public holiday.\nRegion: Pan-India observance.\nDa
+ te is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0614@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Blood Donor Day
+DESCRIPTION:WHO day thanking voluntary blood donors\; marks Karl Landsteine
+ r's birthday.\n\nFREE - observance day\, not a public holiday.\nRegion: Pa
+ n-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0620@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Refugee Day
+DESCRIPTION:UN day honouring the courage and resilience of refugees.\n\nFRE
+ E - observance day\, not a public holiday.\nRegion: Pan-India observance.\
+ nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0621@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Yoga / World Music Day
+DESCRIPTION:UN day recognising yoga's benefits (proposed by India\, since 2
+ 015)\; also Fete de la Musique.\n\nFREE - observance day\, not a public ho
+ liday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0701@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Doctors' Day / CA Day
+DESCRIPTION:Doctors' Day honours Dr B. C. Roy\; also Chartered Accountants'
+  Day (ICAI founded 1949).\n\nFREE - observance day\, not a public holiday.
+ \nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0711@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Population Day
+DESCRIPTION:UN day focusing on population issues and sustainable developmen
+ t.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obs
+ ervance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0726@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Kargil Vijay Diwas
+DESCRIPTION:Commemorates India's victory in the 1999 Kargil War and honours
+  its soldiers.\n\nFREE - observance day\, not a public holiday.\nRegion: P
+ an-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0728@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Nature Conservation Day
+DESCRIPTION:Promotes conservation of natural resources and the environment.
+ \n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obser
+ vance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0806@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Hiroshima Day
+DESCRIPTION:Remembers the 1945 atomic bombing of Hiroshima\; a call for pea
+ ce and nuclear disarmament.\n\nFREE - observance day\, not a public holida
+ y.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0809@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Quit India Movement Day / Nagasaki Day / World Indigenous Peop
+ les' Day
+DESCRIPTION:Marks Gandhi's 1942 Quit India call\; also Nagasaki remembrance
+  and the UN's Indigenous Peoples' Day.\n\nFREE - observance day\, not a pu
+ blic holiday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0812@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Youth Day
+DESCRIPTION:UN day raising awareness of issues facing young people.\n\nFREE
+  - observance day\, not a public holiday.\nRegion: Pan-India observance.\n
+ Date is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0819@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Photography Day
+DESCRIPTION:Celebrates the art and craft of photography (Daguerreotype anno
+ unced 1839).\n\nFREE - observance day\, not a public holiday.\nRegion: Pan
+ -India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0829@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Sports Day
+DESCRIPTION:Hockey legend Major Dhyan Chand's birthday\; promotes sports an
+ d fitness.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-I
+ ndia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0908@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Literacy Day
+DESCRIPTION:UNESCO day promoting literacy as a human right.\n\nFREE - obser
+ vance day\, not a public holiday.\nRegion: Pan-India observance.\nDate is 
+ the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0914@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Hindi Diwas
+DESCRIPTION:Marks Hindi's adoption as an official language of India (1949).
+ \n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India obser
+ vance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0915@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Engineer's Day
+DESCRIPTION:Honours Sir M. Visvesvaraya\, one of India's greatest engineers
+  (born 1861).\n\nFREE - observance day\, not a public holiday.\nRegion: Pa
+ n-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0916@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Ozone Day
+DESCRIPTION:UN day marking the 1987 Montreal Protocol to protect the ozone 
+ layer.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India
+  observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0921@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Peace
+DESCRIPTION:UN day devoted to world peace and a global ceasefire.\n\nFREE -
+  observance day\, not a public holiday.\nRegion: Pan-India observance.\nDa
+ te is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0923@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Sign Languages (World Deaf Day)
+DESCRIPTION:UN day recognising sign languages and the rights of deaf people
+ \; part of Deaf Awareness Week.\n\nFREE - observance day\, not a public ho
+ liday.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_0927@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Tourism Day
+DESCRIPTION:UN Tourism day highlighting tourism's cultural and economic val
+ ue.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India ob
+ servance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1001@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Older Persons / World Vegetarian Day
+DESCRIPTION:UN day honouring senior citizens\; also World Vegetarian Day.\n
+ \nFREE - observance day\, not a public holiday.\nRegion: Pan-India observa
+ nce.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1008@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Indian Air Force Day
+DESCRIPTION:Marks the IAF's founding (1932) and honours its air warriors.\n
+ \nFREE - observance day\, not a public holiday.\nRegion: Pan-India observa
+ nce.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1009@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Post Day
+DESCRIPTION:Marks the founding of the Universal Postal Union (1874).\n\nFRE
+ E - observance day\, not a public holiday.\nRegion: Pan-India observance.\
+ nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1010@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Mental Health Day
+DESCRIPTION:Raises awareness of mental health issues and support.\n\nFREE -
+  observance day\, not a public holiday.\nRegion: Pan-India observance.\nDa
+ te is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1011@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of the Girl Child
+DESCRIPTION:UN day promoting girls' rights and opportunities.\n\nFREE - obs
+ ervance day\, not a public holiday.\nRegion: Pan-India observance.\nDate i
+ s the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1013@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day for Disaster Risk Reduction
+DESCRIPTION:UN day promoting a culture of disaster risk awareness and reduc
+ tion.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India 
+ observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1015@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Students' Day / Global Handwashing Day
+DESCRIPTION:Dr A. P. J. Abdul Kalam's birthday (students' day)\; also Globa
+ l Handwashing Day.\n\nFREE - observance day\, not a public holiday.\nRegio
+ n: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1016@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Food Day
+DESCRIPTION:FAO's founding day (1945) to fight hunger and promote food secu
+ rity.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India 
+ observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1024@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+RRULE:FREQ=YEARLY
+SUMMARY:📌 United Nations Day
+DESCRIPTION:Marks the UN Charter coming into force (1945).\n\nFREE - observ
+ ance day\, not a public holiday.\nRegion: Pan-India observance.\nDate is t
+ he same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1107@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Cancer Awareness Day
+DESCRIPTION:Marks Marie Curie's birthday\; raises awareness of cancer detec
+ tion and prevention in India.\n\nFREE - observance day\, not a public holi
+ day.\nRegion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1119@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Men's Day / World Toilet Day
+DESCRIPTION:Men's Day highlights men's health and role models\; UN's World 
+ Toilet Day promotes sanitation for all.\n\nFREE - observance day\, not a p
+ ublic holiday.\nRegion: Pan-India observance.\nDate is the same every year
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1121@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World Television Day
+DESCRIPTION:UN day recognising television's influence on public opinion.\n\
+ nFREE - observance day\, not a public holiday.\nRegion: Pan-India observan
+ ce.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1129@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Solidarity with the Palestinian People
+DESCRIPTION:UN observance marking the 1947 partition-plan resolution.\n\nFR
+ EE - observance day\, not a public holiday.\nRegion: Pan-India observance.
+ \nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1201@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+SUMMARY:📌 World AIDS Day
+DESCRIPTION:First global health day (1988)\; raises HIV/AIDS awareness and 
+ remembers those lost.\n\nFREE - observance day\, not a public holiday.\nRe
+ gion: Pan-India observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1203@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+RRULE:FREQ=YEARLY
+SUMMARY:📌 International Day of Persons with Disabilities
+DESCRIPTION:UN day promoting the rights and inclusion of persons with disab
+ ilities.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1204@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Indian Navy Day
+DESCRIPTION:Commemorates Operation Trident in the 1971 war and honours the 
+ Navy.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India 
+ observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1207@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Armed Forces Flag Day
+DESCRIPTION:Day to honour soldiers and raise funds for their welfare.\n\nFR
+ EE - observance day\, not a public holiday.\nRegion: Pan-India observance.
+ \nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1210@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Human Rights Day
+DESCRIPTION:Marks the adoption of the Universal Declaration of Human Rights
+  (1948).\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1216@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Vijay Diwas
+DESCRIPTION:Commemorates India's 1971 victory and the birth of Bangladesh.\
+ n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India observ
+ ance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1218@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Minorities Rights Day
+DESCRIPTION:Marks the UN's 1992 declaration on minority rights\; observed i
+ n India.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1223@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Kisan Diwas (Farmers' Day)
+DESCRIPTION:Birthday of former PM Chaudhary Charan Singh\; honours India's 
+ farmers.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:obs_1224@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Consumer Day
+DESCRIPTION:Marks the Consumer Protection Act\, 1986 receiving Presidential
+  assent.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-Ind
+ ia observance.\nDate is the same every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mothers_day@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=2SU
+SUMMARY:📌 Mother's Day (2nd Sunday of May)
+DESCRIPTION:Honours mothers and motherhood with cards\, gifts and family ti
+ me.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-India ob
+ servance.\nDate follows a weekday rule every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fathers_day@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=3SU
+SUMMARY:📌 Father's Day (3rd Sunday of June)
+DESCRIPTION:Honours fathers and father figures.\n\nFREE - observance day\, 
+ not a public holiday.\nRegion: Pan-India observance.\nDate follows a weekd
+ ay rule every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daughters_day@india-observance-pins
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=4SU
+SUMMARY:📌 Daughter's Day - India (4th Sunday of September)
+DESCRIPTION:Celebrates daughters and promotes girls' equality\, education a
+ nd safety.\n\nFREE - observance day\, not a public holiday.\nRegion: Pan-I
+ ndia observance.\nDate follows a weekday rule every year.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

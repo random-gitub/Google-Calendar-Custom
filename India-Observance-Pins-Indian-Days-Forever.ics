@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI Calendar Builder//Observance Days//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:India Observance Days - Pins (Yearly Forever)
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:national_youth_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Youth Day
+DESCRIPTION:India observes this day on the birth anniversary of Swami Viv
+ ekananda.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_startup_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Startup Day
+DESCRIPTION:An observance recognizing India's startup ecosystem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_voters_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Voters' Day
+DESCRIPTION:An Indian observance promoting voter awareness.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:republic_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Republic Day (India)
+DESCRIPTION:India's Republic Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:martyrs_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Martyrs' Day (India)
+DESCRIPTION:An Indian observance remembering those who sacrificed their l
+ ives for the country.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_science_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Science Day (India)
+DESCRIPTION:An Indian observance celebrating science and scientific achie
+ vement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_safety_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Safety Day (India)
+DESCRIPTION:An Indian observance promoting workplace and public safety.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_maritime_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Maritime Day (India)
+DESCRIPTION:An Indian observance recognizing the maritime sector.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_panchayati_raj_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Panchayati Raj Day
+DESCRIPTION:An Indian observance recognizing local self-government.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_technology_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Technology Day (India)
+DESCRIPTION:An Indian observance recognizing technological achievement.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anti_terrorism_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Anti-Terrorism Day (India)
+DESCRIPTION:An Indian observance promoting peace and opposition to terror
+ ism.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_doctors_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Doctors' Day (India)
+DESCRIPTION:An Indian observance recognizing doctors and healthcare worke
+ rs.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kargil_vijay_diwas@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Kargil Vijay Diwas
+DESCRIPTION:An Indian observance remembering the Kargil War victory.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_organ_donation_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Organ Donation Day (India)
+DESCRIPTION:An Indian observance promoting organ donation awareness\; the
+  date used by observances can vary.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_handloom_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Handloom Day (India)
+DESCRIPTION:An Indian observance recognizing the handloom sector.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_sports_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Sports Day (India)
+DESCRIPTION:An Indian observance recognizing sport and athletes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:teachers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Teachers' Day (India)
+DESCRIPTION:India's Teachers' Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hindi_diwas@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Hindi Diwas
+DESCRIPTION:An Indian observance recognizing the Hindi language.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:engineers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Engineers' Day (India)
+DESCRIPTION:An Indian observance recognizing engineering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gandhi_jayanti@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Gandhi Jayanti
+DESCRIPTION:India observes the birth anniversary of Mahatma Gandhi.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:indian_air_force_day@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Indian Air Force Day
+DESCRIPTION:An Indian observance marking the establishment of the Indian 
+ Air Force.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:police_commemoration_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Police Commemoration Day (India)
+DESCRIPTION:An Indian observance remembering police personnel who died in
+  the line of duty.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_unity_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Unity Day (India)
+DESCRIPTION:An Indian observance promoting national unity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_education_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Education Day (India)
+DESCRIPTION:An Indian observance recognizing education.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:children_s_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Children's Day (India)
+DESCRIPTION:India's Children's Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:constitution_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Constitution Day (India)
+DESCRIPTION:An Indian observance marking the adoption of the Constitution
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:armed_forces_flag_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Armed Forces Flag Day (India)
+DESCRIPTION:An Indian observance supporting and recognizing the armed for
+ ces.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vijay_diwas_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+RRULE:FREQ=YEARLY
+SUMMARY:📌 Vijay Diwas (India)
+DESCRIPTION:An Indian observance remembering the 1971 victory.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_mathematics_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Mathematics Day (India)
+DESCRIPTION:An Indian observance celebrating mathematics.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national_farmers_day_india@india-observance-days
+DTSTAMP:20261027T160000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+RRULE:FREQ=YEARLY
+SUMMARY:📌 National Farmers' Day (India)
+DESCRIPTION:An Indian observance recognizing farmers.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
